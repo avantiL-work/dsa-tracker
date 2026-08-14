@@ -1,7 +1,7 @@
 //with return with argument
 import java.util.*;
 
-public class abc{
+public class Function3{
 
     public static int sumcalculator(int x , int y){ //formal parameters
         int sum = x + y;
